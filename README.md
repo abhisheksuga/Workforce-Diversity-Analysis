@@ -23,11 +23,6 @@ This dashboard provides an overview of the distribution of employees across vari
 - **45-54 years:** 2,000 employees
 - **55-64 years:** 800 employees
 
-### Gender Distribution
-- **Female:** Data not fully detailed in the PDF
-- **Male:** Data not fully detailed in the PDF
-- **Non-Conforming:** Data not fully detailed in the PDF
-
 ### Race Distribution
 - **White:** 5,000 employees
 - **Two or More Races:** 2,900 employees
