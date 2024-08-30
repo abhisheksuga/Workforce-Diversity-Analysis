@@ -1,4 +1,7 @@
 # Workforce-Diversity-Analysis
+Employee Distribution Dashboard is a comprehensive Power BI dashboard designed to analyze and visualize the distribution of employees across various dimensions, including location, age group, department, gender, and race. This dashboard provides key insights into the workforce composition, tracks changes in employee numbers over time, and highlights diversity within the organization.
+
+The dashboard also includes metrics on employee retention through the analysis of termination rates by department, making it a valuable tool for HR teams and business leaders to understand and manage their workforce effectively.
 
 ## Overview
 
